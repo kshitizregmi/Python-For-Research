@@ -1,13 +1,19 @@
 
 # **Python For Research** 
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)  &nbsp;  &nbsp;
+# About Instructor
+<div id="badges" align="left">
+  <a href="https://www.linkedin.com/in/kshitizregmi/" target="_blank"> <img src="https://img.shields.io/badge/kshitizregmi-blue?style=for-the-badge&logo=Linkedin&logoColor=white"> </a>
+
+</div>
+
+# License
 [![License](https://img.shields.io/badge/SoftwareLicense-GPLv3-blue.svg)](https://github.com/kshitizregmi/)
 
 
 
 
-**Objectives of the Course**
+# Objectives of the Course
 1. To make students understand the use of Python in Research.
 2. To teach the usage of python and its modules like 
     * **NumPy**, 
@@ -129,7 +135,7 @@
     * The `axis` argument in numpy: 2D: `axis = 0 vs axis = 1`
     * Matrix statistics: `.min(), .min(axis = 1), .min(axis = 0), .argmin(), .argmin(axis = 1), .argmin(axis = 0), np.unravel_index(),  `
     * How morden day images are created? with Example of opencv library
-    
+
 
 
 
