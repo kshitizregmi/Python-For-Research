@@ -101,3 +101,35 @@
 
 ## 2. Numpy
 
+
+* Install and check version of the numpy
+* How to import numpy?
+* Vectors, the 1D Arrays 
+    * What is array and Creating Numpy array: How do you know the shape and size of an array?
+    * What’s the difference between a Python list and a NumPy array?
+    * Array creation routines: `.zeros(), .ones() and .empty()`
+    * Array initilization using Monotonic sequence : `.arange() , .linspace()
+    * Creating random array: `np.random.randint(), np.random.rand(), np.random.uniform(), np.random.randn(), np.random.normal()`
+    * Indexing (fancy indexing) and slicing 1D numpy array
+    * Logic Functions: Truth value testing : `np.any() vs np.all()`
+    * Adding, concatenate, and sorting array elements `np.append() , np.sort(), np.concatenate()`
+    * Vector operations i.e. elementwise operations in 1D numpy array 
+    * Broadcasting and its application in Image Processing
+    * Array Operation: `np.floor(), np.ceil(), np.round()`
+    * Statistics using numpy: `.max(), .min(), .argmax(), .argmin(), .sum(), .mean(), .std(), .var()`
+
+* Matrices, the 2D Arrays, and 3D arrays + Introduction to Computer vision
+
+    * Creation of 2D numpy array using: `list of list and 1D array, .ones(), .zeros(), .full(), .eye(), .reshape()`
+    * Indexing, slicing and modifying values in 2D array
+    * Creating random matrix: `np.random.randint(), np.random.rand(), np.random.uniform(), np.random.randn(), np.random.normal()`
+    * Matrix multiplication: Dot product
+    * Cross Product
+    * Inverse, Transpose and determinant of matrix using numpy
+    * The `axis` argument in numpy: 2D: `axis = 0 vs axis = 1`
+    * Matrix statistics: `.min(), .min(axis = 1), .min(axis = 0), .argmin(), .argmin(axis = 1), .argmin(axis = 0), np.unravel_index(),  `
+    * How morden day images are created? with Example of opencv library
+    
+
+
+
