@@ -28,7 +28,6 @@
 
 ## 1. Python Programming
 
-
 - Introduction to Google Colab
 - Python version and pip package manager
 - Python Program
@@ -36,6 +35,7 @@
 - Using Python as calculators
 - IEEE 754 standard for floating point arithmetic
 - How to define a variable name and Variable Naming convention    
+- Operator Precedence
 - Changing and updating variable values in Python  
 - Data types in Python
 - Number data type: int, float, complex
@@ -52,7 +52,7 @@
     - for loop in python with range() method
     - continue vs break vs pass statements
     - characters vs substrings
-    - string methods: `.replace(), .lower(), .upper(), .lstrip(), .rstrip(), .split()`
+    - string methods: `.replace(), .lower(), .upper(), .lstrip(), .rstrip(), .strip(), .split()`
 - Sequence data type: List
     - Indexing, slicing, for loop with and without `range()` , while loop, for loop vs while loop
     - Calculating mean of list using loops
@@ -134,8 +134,10 @@
     * Inverse, Transpose and determinant of matrix using numpy
     * The `axis` argument in numpy: 2D: `axis = 0 vs axis = 1`
     * Matrix statistics: `.min(), .min(axis = 1), .min(axis = 0), .argmin(), .argmin(axis = 1), .argmin(axis = 0), np.unravel_index(),  `
-    * How morden day images are created? with Example of opencv library
+    * How morden day images are created? with Example of opencv library.
 
 
 
 
+
+# [Day1]()
