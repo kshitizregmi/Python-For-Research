@@ -140,4 +140,12 @@
 
 
 
-# [Day1]()
+# [Day1: Intro to python programming](https://github.com/kshitizregmi/Python-For-Research/blob/main/Day%201%20Intro%20to%20python%20programming.ipynb)
+# [Day2: Number dtype with conditionals](https://github.com/kshitizregmi/Python-For-Research/blob/main/Day%202%20Number%20dtype%20with%20conditionals.ipynb)
+
+# [Day3: String type](https://github.com/kshitizregmi/Python-For-Research/blob/main/Day%203%20String%20type.ipynb)
+# [Day4: List and Tuple type](https://github.com/kshitizregmi/Python-For-Research/blob/main/Day%204%20List%20and%20tuple%20type.ipynb)
+# [Day5 Part1: Dictionary in python](https://github.com/kshitizregmi/Python-For-Research/blob/main/Day%205%20Part%201%20Dictionary.ipynb)
+# [Day5 Part 2: Set and NoneType](https://github.com/kshitizregmi/Python-For-Research/blob/main/Day%205%20Part%202%20set%20and%20NoneType.ipynb)
+# [Day6 Part1: Python Function](https://github.com/kshitizregmi/Python-For-Research/blob/main/Day%206%20Part%201%20python%20function.ipynb)
+# [Day6 Part 2: OOP in Python](https://github.com/kshitizregmi/Python-For-Research/blob/main/Day%206%20Part%202%20OOP%20python.ipynb)
