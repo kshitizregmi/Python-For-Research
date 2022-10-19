@@ -1,5 +1,7 @@
 
-# **Python For Research** 
+# **Python In Academic Research** 
+
+<img src="https://media-exp1.licdn.com/dms/image/C5622AQHad7Klvb8-gw/feedshare-shrink_2048_1536/0/1663778244934?e=2147483647&v=beta&t=c67HOpu6lVDEZeHoQsCo6zIQInmq51Yh95pkCzXIwf4">
 
 # About Instructor
 <div id="badges" align="left">
